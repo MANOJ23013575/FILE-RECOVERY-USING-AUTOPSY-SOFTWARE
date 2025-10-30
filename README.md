@@ -77,7 +77,7 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 
 #### Folder after deleting the files
-<img width="1842" height="945" alt="Screenshot 2025-08-28 140138" src="https://github.com/user-attachments/assets/9ac03065-61cc-44ef-83c4-b9c9d7080a8c" />
+
 
 
 #### Extracting the deleted images using autopsy
