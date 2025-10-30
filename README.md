@@ -1,9 +1,8 @@
-### NAME : MANOJ K
-### REG NO : 212222223001
+
 # FILE-RECOVERY-USING-AUTOPSY-SOFTWARE
 
-## Register Number : 212222240015
-## Name : AUGUSTINE J
+## Register Number : 212222223001
+## Name : MANOJ K
 
 ## AIM:
 To use Autopsy in to retrieve and analyze deleted files from a disk image.
